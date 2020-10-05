@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}个人调研}{3}%
+\contentsline {subsection}{\numberline {1.1}为什么是PC电子竞技？}{3}%
+\contentsline {paragraph}{社会趋势}{3}%
+\contentsline {paragraph}{使用条件}{3}%
+\contentsline {subsection}{\numberline {1.2}为什么是《守望先锋》}{3}%
+\contentsline {section}{\numberline {2}数据获取以及筛选}{3}%
+\contentsline {paragraph}{职业赛场}{3}%
