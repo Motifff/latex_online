@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {1}个人调研}{3}%
+\contentsline {subsection}{\numberline {1.1}为什么是PC电子竞技？}{3}%
+\contentsline {paragraph}{社会趋势}{3}%
+\contentsline {paragraph}{使用条件}{3}%
+\contentsline {subsection}{\numberline {1.2}为什么是《守望先锋》}{3}%
+\contentsline {subsection}{\numberline {1.3}DPI和EDPI是什么}{3}%
+\contentsline {paragraph}{}{3}%
+\contentsline {section}{\numberline {2}数据获取以及筛选}{4}%
+\contentsline {subsection}{\numberline {2.1}职业赛场数据}{4}%
+\contentsline {paragraph}{分析}{4}%
+\contentsline {subsection}{\numberline {2.2}个人使用数据整理}{5}%
+\contentsline {paragraph}{}{5}%
+\contentsline {paragraph}{分析}{5}%
+\contentsline {section}{\numberline {3}运动模型}{6}%
+\contentsline {subsection}{\numberline {3.1}鼠标到屏幕的动作映射}{6}%
+\contentsline {paragraph}{}{6}%
+\contentsline {subsection}{\numberline {3.2}鼠标-手腕-手臂模型}{6}%
+\contentsline {paragraph}{两大瞄准方式：手臂/手腕}{6}%
+\contentsline {paragraph}{}{6}%
+\contentsline {paragraph}{}{6}%
+\contentsline {paragraph}{}{7}%
+\contentsline {paragraph}{}{7}%
+\contentsline {subsection}{\numberline {3.3}其他身体部位的移动范围}{7}%
+\contentsline {paragraph}{分析}{7}%
+\contentsline {section}{\numberline {4}痛点分析}{7}%
+\contentsline {paragraph}{大体职业氛围}{7}%
+\contentsline {paragraph}{fps职业氛围}{7}%
+\contentsline {section}{\numberline {5}改进}{7}%
